@@ -1,25 +1,25 @@
 h1 {
-    text-align: center;
-    background-color: white;
+  text-align: center;
+  background-color: white;
 }
 
 h2 {
-    text-align: center;
-    margin-left: 500px;
-    margin-right: 500px;
-    background-color: white;
+  text-align: center;
+  margin-left: 500px;
+  margin-right: 500px;
+  background-color: white;
 }
 
 p {
-    margin-left: 500px;
-    margin-right: 500px;
-    background-color: white;
-    border: 10px;
-    border-color: black;
-    font-weight: bold;
+  margin-left: 500px;
+  margin-right: 500px;
+  background-color: white;
+  border: 10px;
+  border-color: black;
+  font-weight: bold;
 }
 
 img {
-    position: sticky;
-    top: 50px;
+  position: sticky;
+  top: 50px;
 }
