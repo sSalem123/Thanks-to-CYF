@@ -5,21 +5,23 @@ h1 {
 
 h2 {
   text-align: center;
-  margin-left: 500px;
-  margin-right: 500px;
+  margin-left: 35em;
+  margin-right: 35em;
   background-color: white;
 }
 
 p {
-  margin-left: 500px;
-  margin-right: 500px;
-  background-color: white;
-  border: 10px;
-  border-color: black;
+  margin-left: 35em;
+  margin-right: 35em;
   font-weight: bold;
 }
 
 img {
   position: sticky;
-  top: 50px;
+  top: 5em;
+}
+
+.secondImg {
+  position:sticky;
+  top: 10em;
 }
