@@ -5,14 +5,14 @@ h1 {
 
 h2 {
   text-align: center;
-  margin-left: 35em;
-  margin-right: 35em;
+  margin-left: 10em;
+  margin-right: 10em;
   background-color: white;
 }
 
 p {
-  margin-left: 35em;
-  margin-right: 35em;
+  margin-left: 20em;
+  margin-right: 22em;
   font-weight: bold;
 }
 
@@ -21,7 +21,3 @@ img {
   top: 5em;
 }
 
-.secondImg {
-  position:sticky;
-  top: 10em;
-}
