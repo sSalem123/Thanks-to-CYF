@@ -1,23 +1,26 @@
 h1 {
-  text-align: center;
-  background-color: white;
+    text-align: center;
+    background-color: white;
 }
 
 h2 {
-  text-align: center;
-  margin-left: 10em;
-  margin-right: 10em;
-  background-color: white;
+    text-align: center;
+    margin-left: 10em;
+    margin-right: 10em;
+    background-color: white;
 }
 
 p {
-  margin-left: 20em;
-  margin-right: 22em;
-  font-weight: bold;
+    margin-left: 20em;
+    margin-right: 22em;
+    font-weight: bold;
 }
 
 img {
-  position: sticky;
-  top: 5em;
+    position: sticky;
+    top: 5em;
 }
 
+.thanks {
+    margin-left: 50px;
+}
